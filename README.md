@@ -20,7 +20,7 @@ I am building a practical cybersecurity portfolio focused on security operations
 
 | Project | What It Demonstrates |
 | --- | --- |
-| [Cybersecurity Portfolio](https://github.com/wilsonvs/cyber) | SOC labs, SIEM detection, Windows log analysis, vulnerability reporting, Python automation, and GRC documentation |
+| [Cybersecurity Portfolio](https://github.com/wilsonvs/cybersecurity-portfolio) | SOC labs, SIEM detection, Windows log analysis, vulnerability reporting, Python automation, and GRC documentation |
 | [Google Cybersecurity Professional Certificate](https://github.com/wilsonvs/Google-Cybersecurity) | Certificate-based cybersecurity foundations, Linux, SQL, Python, SIEM, risk, and incident response notes |
 | [CompTIA Security+ SY0-701](https://github.com/wilsonvs/CompTIA-Security-SY0-701) | Security+ domain mapping, security operations, risk, IAM, threat, vulnerability, and GRC study documentation |
 
