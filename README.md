@@ -2,9 +2,19 @@
 
 **Aspiring Cybersecurity Analyst | ISC2 CC | 10+ Years IT Experience | SOC, SIEM, Incident Response, Vulnerability Management**
 
-I am an aspiring Cybersecurity Analyst with 10+ years of hands-on IT experience across system administration, network management, technical support, and IT operations. I am now focused full-time on security operations, with the goal of applying my infrastructure background to SOC Analyst, Cybersecurity Analyst, Security Specialist, and security-focused IT roles.
+I am an aspiring Cybersecurity Analyst with 10+ years of hands-on IT experience across system administration, network management, technical support, and IT operations. I am now focused full-time on security operations, applying my infrastructure background to SOC Analyst, Cybersecurity Analyst, Security Specialist, and security-focused IT roles.
 
 Security is not new to me. As a System Administrator at Worldwide Cloud Solutions, I hardened Windows and Linux systems, managed user access and permissions, implemented security protocols and policies, monitored system and network logs, and helped establish incident management processes. Those are the same fundamentals a SOC depends on: visibility, access control, log review, response discipline, and clear documentation.
+
+## Start Here
+
+| Open First | What It Proves |
+| --- | --- |
+| [Cybersecurity Portfolio](https://github.com/wilsonvs/cybersecurity-portfolio) | Main proof hub with SOC labs, detections, reports, scripts, sample logs, and screenshots |
+| [Windows Event Log Analysis](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/labs/windows-event-log-analysis) | Authentication log review, Event ID 4624/4625 timeline, investigation notes |
+| [Windows Failed Logon Detection](https://github.com/wilsonvs/cybersecurity-portfolio/blob/main/detections/windows/failed-logons-followed-by-successful-logon.md) | SPL, KQL, Sigma-style detection logic, MITRE mapping, false-positive review |
+| [Python Log Triage Tool](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/tools/python-log-triage) | Python automation for repeatable authentication-event triage |
+| [Security Policy and Risk Register](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/governance-risk-compliance/security-policy-and-risk-register) | GRC evidence: policy draft, risk register, control mapping |
 
 ## Career Snapshot
 
@@ -30,18 +40,6 @@ Security is not new to me. As a System Administrator at Worldwide Cloud Solution
 | Security Automation | Python scripts for repeatable authentication-event triage |
 | Cloud Security | AWS, Google Cloud, Azure security fundamentals |
 | Systems | Windows/Linux administration, troubleshooting, hardening, monitoring |
-
-## Featured Cybersecurity Work
-
-| Project | Why It Matters |
-| --- | --- |
-| [Cybersecurity Portfolio](https://github.com/wilsonvs/cybersecurity-portfolio) | Main hub with SOC labs, detections, reports, scripts, sample logs, and screenshots |
-| [Windows Event Log Analysis](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/labs/windows-event-log-analysis) | Event ID 4624/4625 timeline, sample events, and investigation notes |
-| [Phishing Email Analysis](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/labs/phishing-email-analysis) | Sample email, header review, URL defanging, triage verdict, and response steps |
-| [Network Traffic Analysis](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/labs/network-traffic-analysis) | Zeek-style connection log review and repeated outbound traffic analysis |
-| [Python Log Triage Tool](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/tools/python-log-triage) | Python CSV parsing, authentication summary output, and screenshot evidence |
-| [Windows Failed Logon Detection](https://github.com/wilsonvs/cybersecurity-portfolio/blob/main/detections/windows/failed-logons-followed-by-successful-logon.md) | SPL, KQL, Sigma-style logic, false positives, and response notes |
-| [Security Policy and Risk Register](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/governance-risk-compliance/security-policy-and-risk-register) | Policy draft, risk register, and NIST CSF-style control mapping |
 
 ## Threat Research and Writing
 
