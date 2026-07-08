@@ -6,11 +6,11 @@ I am an aspiring Cybersecurity Analyst with 10+ years of hands-on IT experience 
 
 Security is not new to me. As a System Administrator at Worldwide Cloud Solutions, I hardened Windows and Linux systems, managed user access and permissions, implemented security protocols and policies, monitored system and network logs, and helped establish incident management processes. Those are the same fundamentals a SOC depends on: visibility, access control, log review, response discipline, and clear documentation.
 
-## Start Here
+## Selected Work
 
-| Open First | What It Proves |
+| Project | Focus |
 | --- | --- |
-| [Cybersecurity Portfolio](https://github.com/wilsonvs/cybersecurity-portfolio) | Main proof hub with SOC labs, detections, reports, scripts, sample logs, and screenshots |
+| [Cybersecurity Portfolio](https://github.com/wilsonvs/cybersecurity-portfolio) | SOC labs, detections, reports, scripts, sample logs, and screenshots |
 | [Windows Event Log Analysis](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/labs/windows-event-log-analysis) | Authentication log review, Event ID 4624/4625 timeline, investigation notes |
 | [Windows Failed Logon Detection](https://github.com/wilsonvs/cybersecurity-portfolio/blob/main/detections/windows/failed-logons-followed-by-successful-logon.md) | SPL, KQL, Sigma-style detection logic, MITRE mapping, false-positive review |
 | [Python Log Triage Tool](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/tools/python-log-triage) | Python automation for repeatable authentication-event triage |
