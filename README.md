@@ -1,22 +1,50 @@
 # Wilson Vijay Sequeira
 
-**Aspiring Cybersecurity Analyst | ISC2 CC | 10+ Years IT Experience | SOC, SIEM, Incident Response, Vulnerability Management**
+**Cybersecurity Analyst | Security Research Notes | SOC, SIEM, Incident Response, Vulnerability Management | ISC2 CC | 10+ Years IT Experience**
 
-I am an aspiring Cybersecurity Analyst with 10+ years of hands-on IT experience across system administration, network management, technical support, and IT operations. I am now focused full-time on security operations, applying my infrastructure background to SOC Analyst, Cybersecurity Analyst, Security Specialist, and security-focused IT roles.
+I study, document, and build practical cybersecurity material around security operations, threat analysis, incident response, vulnerability management, access control, network security, and certification learning paths.
 
-Security is not new to me. As a System Administrator at Worldwide Cloud Solutions, I hardened Windows and Linux systems, managed user access and permissions, implemented security protocols and policies, monitored system and network logs, and helped establish incident management processes. Those are the same fundamentals a SOC depends on: visibility, access control, log review, response discipline, and clear documentation.
+My background is rooted in hands-on IT operations. Across system administration, network management, and technical support, I have worked with Windows and Linux systems, user access, permissions, security policies, system logs, troubleshooting, and operational support. I use that experience to approach cybersecurity from a practical point of view: what happened, what evidence supports it, what risk it creates, and what action should be taken.
 
-## Selected Work
+## Cybersecurity Study Guides
 
-| Project | Focus |
+| Study Guide | Focus |
+| --- | --- |
+| [Cybersecurity Study Guides Hub](https://github.com/wilsonvs/Cybersecurity-Study-Guides) | Central index for all cybersecurity certification study notes |
+| [CompTIA Security+ SY0-701 Study Guide](https://github.com/wilsonvs/CompTIA-Security-SY0-701) | Security+ exam objectives, security operations, IAM, GRC, risk, threats, vulnerabilities, and incident response |
+| [Google Cybersecurity Certificate Study Guide](https://github.com/wilsonvs/Google-Cybersecurity) | Module-wise notes for foundations, risk, networks, Linux, SQL, assets, detection, Python, and security readiness |
+| [ISC2 Certified in Cybersecurity CC Study Guide](https://github.com/wilsonvs/ISC2-CC-Study-Guide) | Domain-wise CC notes for security principles, BC/DR/IR, access controls, network security, and security operations |
+
+## Security Operations Work
+
+| Work Area | Evidence |
 | --- | --- |
 | [Cybersecurity Portfolio](https://github.com/wilsonvs/cybersecurity-portfolio) | SOC labs, detections, reports, scripts, sample logs, and screenshots |
-| [Windows Event Log Analysis](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/labs/windows-event-log-analysis) | Authentication log review, Event ID 4624/4625 timeline, investigation notes |
+| [Windows Event Log Analysis](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/labs/windows-event-log-analysis) | Authentication event review, Event ID 4624/4625 timeline, investigation notes |
 | [Windows Failed Logon Detection](https://github.com/wilsonvs/cybersecurity-portfolio/blob/main/detections/windows/failed-logons-followed-by-successful-logon.md) | SPL, KQL, Sigma-style detection logic, MITRE mapping, false-positive review |
 | [Python Log Triage Tool](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/tools/python-log-triage) | Python automation for repeatable authentication-event triage |
-| [Security Policy and Risk Register](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/governance-risk-compliance/security-policy-and-risk-register) | GRC evidence: policy draft, risk register, control mapping |
+| [Security Policy and Risk Register](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/governance-risk-compliance/security-policy-and-risk-register) | GRC documentation, risk register, control mapping, and policy writing |
 
-## Career Snapshot
+## Research and Writing Focus
+
+I track current cybersecurity incidents and translate them into practical notes for detection, response, and security operations learning.
+
+Topics I focus on:
+
+- Threat intelligence and incident breakdowns
+- SOC alert triage and investigation workflows
+- Windows Event Log analysis and authentication activity
+- SIEM detection logic using SPL, KQL, and Sigma-style structure
+- Vulnerability management, risk rating, and remediation planning
+- Access control, MFA, least privilege, and privileged access review
+- Network security, DNS, HTTPS/TLS, Zeek-style traffic review, and repeated outbound connection analysis
+- Security governance, policy writing, and risk communication
+
+## Technical Skills
+
+`SOC Monitoring` `SIEM` `Incident Response` `Threat Intelligence` `Vulnerability Management` `Windows Event Logs` `Splunk` `KQL` `Microsoft Sentinel` `Wazuh` `Elastic` `Sigma` `MITRE ATT&CK` `NIST CSF` `Wireshark` `Zeek` `Nmap` `Linux` `Python` `PowerShell` `SQL` `AWS` `Google Cloud` `Azure` `GRC` `Access Control` `Network Security`
+
+## Experience Snapshot
 
 | Role | Organization | Period | Location |
 | --- | --- | --- | --- |
@@ -25,29 +53,6 @@ Security is not new to me. As a System Administrator at Worldwide Cloud Solution
 | IT Support Specialist | United Planets Enterprises | May 2013 - Sep 2017 | Masqat, Oman |
 | Jr Assistant | Manappuram Finance Limited | Jul 2010 - Dec 2012 | India |
 | Application Support | Natural Farms | Jan 2012 - Apr 2012 | Mangaluru, India |
-
-## Security Operations Focus
-
-| Area | Evidence I Am Building |
-| --- | --- |
-| SOC Monitoring | Alert triage workflows, incident notes, evidence timelines |
-| SIEM and Log Analysis | SPL/KQL detection logic, Windows Event ID analysis, false-positive review |
-| Incident Response | Investigation steps, containment recommendations, incident report templates |
-| Threat Intelligence | IOC handling, defanging, enrichment plans, internal log search strategy |
-| Vulnerability Management | Risk rating, remediation planning, ownership, retest thinking |
-| Access Control | IAM review, MFA, least privilege, privileged access review |
-| Network Security | DNS, HTTPS/TLS, Zeek-style traffic review, repeated outbound connection analysis |
-| Security Automation | Python scripts for repeatable authentication-event triage |
-| Cloud Security | AWS, Google Cloud, Azure security fundamentals |
-| Systems | Windows/Linux administration, troubleshooting, hardening, monitoring |
-
-## Threat Research and Writing
-
-I research and write about live threats to keep my detection and response thinking current. Recent topics include:
-
-- Oracle EBS zero-day `CVE-2025-61882` exploitation activity linked to Cl0p
-- ShinyHunters Salesforce breach campaign
-- Ransomware, cloud security, patching, and incident response lessons from current events
 
 ## Credentials
 
@@ -60,13 +65,12 @@ I research and write about live threats to keep my detection and response thinki
 | Cloud Computing, NPTEL - IIT Kharagpur | 2019 |
 | CompTIA Security+ SY0-701 | In progress |
 
-## Tools and Concepts
+## Current Priorities
 
-`Splunk` `KQL` `Microsoft Sentinel` `Wazuh` `Elastic` `Wireshark` `Zeek` `Nmap` `Windows Event Logs` `Linux` `Python` `PowerShell` `SQL` `AWS` `Google Cloud` `Azure` `MITRE ATT&CK` `NIST CSF` `GRC`
-
-## Open To
-
-SOC Analyst, Cybersecurity Analyst, Security Specialist, IT Security Analyst, and security-focused IT/System Administrator roles. Open to on-site, hybrid, or remote opportunities and willing to relocate.
+- Expanding cybersecurity study guides into structured, easy-to-review learning material
+- Building practical SOC investigation labs with real evidence, screenshots, and detection logic
+- Writing concise security research notes that connect current threats with detection and response thinking
+- Improving GitHub organization so study notes, labs, and research are easy to find
 
 ## Contact
 
