@@ -15,6 +15,7 @@ This GitHub is organized around three areas:
 | Area | Repository | What It Shows |
 | --- | --- | --- |
 | Study Hub | [Cybersecurity Study Guides](https://github.com/wilsonvs/Cybersecurity-Study-Guides) | Central hub for cybersecurity certification notes, study roadmap, glossary, quick references, and review checklists |
+| Security Research | [Cybersecurity Research](https://github.com/wilsonvs/Cybersecurity-Research) | Threat research methodology, vulnerability review structure, detection note templates, and incident-response thinking |
 | Security+ Notes | [CompTIA Security+ SY0-701](https://github.com/wilsonvs/CompTIA-Security-SY0-701) | Exam-objective study notes covering threats, vulnerabilities, architecture, IAM, GRC, security operations, and incident response |
 | Practical SOC Work | [Cybersecurity Portfolio](https://github.com/wilsonvs/cybersecurity-portfolio) | Hands-on SOC labs, SIEM detections, Windows log analysis, Python automation, vulnerability review, and GRC evidence |
 | Google Certificate Notes | [Google Cybersecurity](https://github.com/wilsonvs/Google-Cybersecurity) | Module-wise study notes for foundations, risk, networks, Linux, SQL, assets, detection, Python, and security readiness |
@@ -26,6 +27,7 @@ This GitHub is organized around three areas:
 | --- | --- |
 | Windows Event Log Analysis | [Authentication event review and Event ID 4624/4625 investigation notes](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/labs/windows-event-log-analysis) |
 | Detection Engineering | [Failed logon followed by successful logon detection using SPL, KQL, and Sigma-style logic](https://github.com/wilsonvs/cybersecurity-portfolio/blob/main/detections/windows/failed-logons-followed-by-successful-logon.md) |
+| Threat Research Process | [Research methodology and writeup templates for threat, vulnerability, and detection notes](https://github.com/wilsonvs/Cybersecurity-Research) |
 | Security Automation | [Python log triage tool for repeatable authentication-event review](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/tools/python-log-triage) |
 | GRC and Risk | [Security policy, risk register, and control mapping documentation](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/governance-risk-compliance/security-policy-and-risk-register) |
 | Study Material Design | [Cybersecurity roadmap, glossary, IR cheat sheet, SIEM query plan, and review checklists](https://github.com/wilsonvs/Cybersecurity-Study-Guides/tree/main/docs) |
