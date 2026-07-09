@@ -1,48 +1,60 @@
 # Wilson Vijay Sequeira
 
-**Cybersecurity Analyst | Security Research Notes | SOC, SIEM, Incident Response, Vulnerability Management | ISC2 CC | 10+ Years IT Experience**
+**Cybersecurity Analyst | Security Operations | SOC, SIEM, Incident Response, Vulnerability Management | ISC2 CC | 10+ Years IT Experience**
 
-I study, document, and build practical cybersecurity material around security operations, threat analysis, incident response, vulnerability management, access control, network security, and certification learning paths.
+I work at the intersection of IT operations and cybersecurity. My background includes system administration, network support, technical troubleshooting, user access management, Windows/Linux administration, security policy implementation, and log review. I use that foundation to study and document practical security operations: what happened, what evidence supports it, what risk it creates, and what action should come next.
 
-My background is rooted in hands-on IT operations. Across system administration, network management, and technical support, I have worked with Windows and Linux systems, user access, permissions, security policies, system logs, troubleshooting, and operational support. I use that experience to approach cybersecurity from a practical point of view: what happened, what evidence supports it, what risk it creates, and what action should be taken.
+This GitHub is organized around three areas:
 
-## Cybersecurity Study Guides
+- **Security operations evidence:** SOC labs, SIEM detections, Windows Event Log analysis, Python triage scripts, and GRC documentation.
+- **Cybersecurity research notes:** threat breakdowns, detection ideas, incident response thinking, and vulnerability/risk review.
+- **Study guides:** structured certification notes for CompTIA Security+ SY0-701, Google Cybersecurity, and ISC2 CC.
 
-| Study Guide | Focus |
-| --- | --- |
-| [Cybersecurity Study Guides Hub](https://github.com/wilsonvs/Cybersecurity-Study-Guides) | Central index for all cybersecurity certification study notes |
-| [CompTIA Security+ SY0-701 Study Guide](https://github.com/wilsonvs/CompTIA-Security-SY0-701) | Security+ exam objectives, security operations, IAM, GRC, risk, threats, vulnerabilities, and incident response |
-| [Google Cybersecurity Certificate Study Guide](https://github.com/wilsonvs/Google-Cybersecurity) | Module-wise notes for foundations, risk, networks, Linux, SQL, assets, detection, Python, and security readiness |
-| [ISC2 Certified in Cybersecurity CC Study Guide](https://github.com/wilsonvs/ISC2-CC-Study-Guide) | Domain-wise CC notes for security principles, BC/DR/IR, access controls, network security, and security operations |
+## Featured Work
 
-## Security Operations Work
+| Area | Repository | What It Shows |
+| --- | --- | --- |
+| Study Hub | [Cybersecurity Study Guides](https://github.com/wilsonvs/Cybersecurity-Study-Guides) | Central hub for cybersecurity certification notes, study roadmap, glossary, quick references, and review checklists |
+| Security+ Notes | [CompTIA Security+ SY0-701](https://github.com/wilsonvs/CompTIA-Security-SY0-701) | Exam-objective study notes covering threats, vulnerabilities, architecture, IAM, GRC, security operations, and incident response |
+| Practical SOC Work | [Cybersecurity Portfolio](https://github.com/wilsonvs/cybersecurity-portfolio) | Hands-on SOC labs, SIEM detections, Windows log analysis, Python automation, vulnerability review, and GRC evidence |
+| Google Certificate Notes | [Google Cybersecurity](https://github.com/wilsonvs/Google-Cybersecurity) | Module-wise study notes for foundations, risk, networks, Linux, SQL, assets, detection, Python, and security readiness |
+| ISC2 CC Notes | [ISC2 CC Study Guide](https://github.com/wilsonvs/ISC2-CC-Study-Guide) | Domain-wise CC notes for security principles, BC/DR/IR, access controls, network security, and security operations |
+
+## Hands-On Security Evidence
 
 | Work Area | Evidence |
 | --- | --- |
-| [Cybersecurity Portfolio](https://github.com/wilsonvs/cybersecurity-portfolio) | SOC labs, detections, reports, scripts, sample logs, and screenshots |
-| [Windows Event Log Analysis](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/labs/windows-event-log-analysis) | Authentication event review, Event ID 4624/4625 timeline, investigation notes |
-| [Windows Failed Logon Detection](https://github.com/wilsonvs/cybersecurity-portfolio/blob/main/detections/windows/failed-logons-followed-by-successful-logon.md) | SPL, KQL, Sigma-style detection logic, MITRE mapping, false-positive review |
-| [Python Log Triage Tool](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/tools/python-log-triage) | Python automation for repeatable authentication-event triage |
-| [Security Policy and Risk Register](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/governance-risk-compliance/security-policy-and-risk-register) | GRC documentation, risk register, control mapping, and policy writing |
+| Windows Event Log Analysis | [Authentication event review and Event ID 4624/4625 investigation notes](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/labs/windows-event-log-analysis) |
+| Detection Engineering | [Failed logon followed by successful logon detection using SPL, KQL, and Sigma-style logic](https://github.com/wilsonvs/cybersecurity-portfolio/blob/main/detections/windows/failed-logons-followed-by-successful-logon.md) |
+| Security Automation | [Python log triage tool for repeatable authentication-event review](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/tools/python-log-triage) |
+| GRC and Risk | [Security policy, risk register, and control mapping documentation](https://github.com/wilsonvs/cybersecurity-portfolio/tree/main/governance-risk-compliance/security-policy-and-risk-register) |
+| Study Material Design | [Cybersecurity roadmap, glossary, IR cheat sheet, SIEM query plan, and review checklists](https://github.com/wilsonvs/Cybersecurity-Study-Guides/tree/main/docs) |
 
-## Research and Writing Focus
+## Security Research Focus
 
-I track current cybersecurity incidents and translate them into practical notes for detection, response, and security operations learning.
+I study current cybersecurity incidents and translate them into practical detection and response notes. My focus is on connecting threat activity with analyst thinking: logs to check, indicators to validate, likely impact, containment steps, and lessons for prevention.
 
-Topics I focus on:
+Current focus areas:
 
 - Threat intelligence and incident breakdowns
 - SOC alert triage and investigation workflows
-- Windows Event Log analysis and authentication activity
+- Windows authentication events and logon behavior
 - SIEM detection logic using SPL, KQL, and Sigma-style structure
-- Vulnerability management, risk rating, and remediation planning
-- Access control, MFA, least privilege, and privileged access review
-- Network security, DNS, HTTPS/TLS, Zeek-style traffic review, and repeated outbound connection analysis
-- Security governance, policy writing, and risk communication
+- Vulnerability management, risk rating, remediation, and retesting
+- Access control, MFA, least privilege, and privileged account review
+- Network security, DNS, HTTPS/TLS, Zeek-style review, and outbound connection analysis
+- Security governance, policy writing, risk registers, and control communication
 
-## Technical Skills
+## Technical Map
 
-`SOC Monitoring` `SIEM` `Incident Response` `Threat Intelligence` `Vulnerability Management` `Windows Event Logs` `Splunk` `KQL` `Microsoft Sentinel` `Wazuh` `Elastic` `Sigma` `MITRE ATT&CK` `NIST CSF` `Wireshark` `Zeek` `Nmap` `Linux` `Python` `PowerShell` `SQL` `AWS` `Google Cloud` `Azure` `GRC` `Access Control` `Network Security`
+| Category | Tools and Concepts |
+| --- | --- |
+| Security Operations | SOC monitoring, alert triage, incident response, evidence timelines, investigation notes |
+| SIEM and Detection | Splunk, KQL, Microsoft Sentinel, Wazuh, Elastic, Sigma-style logic, MITRE ATT&CK |
+| Systems and Logs | Windows Event Logs, Linux, PowerShell, Python, SQL, authentication events, endpoint review |
+| Network Security | Wireshark, Zeek, Nmap, DNS, HTTPS/TLS, firewall logs, repeated outbound connection analysis |
+| Risk and GRC | NIST CSF, policy writing, risk register, control mapping, vulnerability management |
+| Cloud Fundamentals | AWS, Google Cloud, Azure security fundamentals, IAM, logging, secure configuration |
 
 ## Experience Snapshot
 
@@ -65,12 +77,12 @@ Topics I focus on:
 | Cloud Computing, NPTEL - IIT Kharagpur | 2019 |
 | CompTIA Security+ SY0-701 | In progress |
 
-## Current Priorities
+## Current Build List
 
-- Expanding cybersecurity study guides into structured, easy-to-review learning material
-- Building practical SOC investigation labs with real evidence, screenshots, and detection logic
-- Writing concise security research notes that connect current threats with detection and response thinking
-- Improving GitHub organization so study notes, labs, and research are easy to find
+- Expanding security research writeups into concise detection-and-response notes
+- Improving SOC labs with screenshots, logs, timelines, and analyst conclusions
+- Maintaining cybersecurity study guides as structured, easy-to-review learning material
+- Building practical Python and PowerShell automation for repeatable security review tasks
 
 ## Contact
 
